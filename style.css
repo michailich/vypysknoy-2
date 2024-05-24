@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+    background-color: green;
+    text-decoration: none;
+    padding: 30px;
+    border: 10px solid white;
+    font-family: 'Courier New', Courier, monospace;
+}
+p {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: aqua;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    border-radius: 20%;
+    border: 6px groove green;
+}
+footer {
+    text-align: center;
+}
+
